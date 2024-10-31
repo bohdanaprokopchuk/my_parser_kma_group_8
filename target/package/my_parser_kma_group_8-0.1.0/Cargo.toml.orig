@@ -7,3 +7,6 @@ description = "A brief description of my crate"
 
 [dependencies]
 peg = "0.8.4"
+
+[package.metadata]
+exclude = ["target", "examples", "*.jpg"]
