@@ -1,0 +1,1 @@
+C:\Users\Dana\rust-learning-path\my_parser_kma_group_8\target\package\my_parser_kma_group_8-0.1.0\target\debug\my_parser_kma_group_8.exe: C:\Users\Dana\rust-learning-path\my_parser_kma_group_8\target\package\my_parser_kma_group_8-0.1.0\src\lib.rs C:\Users\Dana\rust-learning-path\my_parser_kma_group_8\target\package\my_parser_kma_group_8-0.1.0\src\main.rs
