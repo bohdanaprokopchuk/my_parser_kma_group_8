@@ -4,9 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "A brief description of my crate"
+exclude = ["target/*", "*.md", "*.lock", "examples/*", ".git/*"]
 
 [dependencies]
 peg = "0.8.4"
-
-[package.metadata]
-exclude = ["target", "examples", "*.jpg"]

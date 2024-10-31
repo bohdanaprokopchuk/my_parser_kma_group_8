@@ -14,6 +14,13 @@ edition = "2021"
 name = "my_parser_kma_group_8"
 version = "0.1.0"
 build = false
+exclude = [
+    "target/*",
+    "*.md",
+    "*.lock",
+    "examples/*",
+    ".git/*",
+]
 autobins = false
 autoexamples = false
 autotests = false
@@ -21,13 +28,6 @@ autobenches = false
 description = "A brief description of my crate"
 readme = "README.md"
 license = "MIT"
-
-[package.metadata]
-exclude = [
-    "target",
-    "examples",
-    "*.jpg",
-]
 
 [lib]
 name = "my_parser_kma_group_8"
